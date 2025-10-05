@@ -7,3 +7,7 @@ Then it appends the word, the image and the audio file to a TSV which can then b
 I consider this a spiritual successor to the Subs2SRS app (which was abandoned many years ago) except here the user only picks the words he/she does not know or would like to review instead of every subtitle line in the film/episode/video.
 
 Video demo: https://www.youtube.com/watch?v=M79qVrPGHlc
+
+
+To install: download mpv2srs.lua and paste it in C:\Program Files\mpv\portable_config\scripts (or wherever your mpv installation is)
+I have tested it on my Windows PC and my Ubuntu Linux PC and it works on both.
